@@ -1,0 +1,15 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "supabase",
+    "NAPCnapc",
+    "notaparentcompany",
+    "napc"
+  ],
+  "ignorePaths": [
+    "node_modules",
+    "dist",
+    ".next"
+  ]
+}
